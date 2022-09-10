@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035554955393",
+    "firebase_url": "https://rab3hagame-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rab3hagame",
+    "storage_bucket": "rab3hagame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035554955393:android:5b93604870b5e1121a6d80",
+        "android_client_info": {
+          "package_name": "com.Rab3ha.Rab3ha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035554955393-oauomit89kv4pltmqvco0vlp8p6gijkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxxVB8rpwhmcfoL4jPNXP5K7Bu4lY-tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035554955393-oauomit89kv4pltmqvco0vlp8p6gijkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
